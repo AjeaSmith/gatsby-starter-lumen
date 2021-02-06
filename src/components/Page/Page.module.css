@@ -1,0 +1,54 @@
+/** 
+ * Variables
+ */
+/**
+ * Breakpoints
+ */
+/**
+ * Margin
+ */
+/**
+ * Padding
+ */
+/**
+ * Line-Height
+ */
+.page {
+  margin-bottom: 52px;
+}
+
+.page__inner {
+  padding: 25px 20px;
+}
+
+.page__title {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 52px;
+  margin-top: 0px;
+  margin-bottom: 37.7px;
+}
+
+.page__body {
+  font-size: 16px;
+  line-height: 26px;
+  margin: 0px 0px 26px;
+}
+
+@media screen and (min-width: 685px) {
+  .page {
+    lost-column: 7/12;
+  }
+  .page__inner {
+    padding: 30px 20px;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .page {
+    lost-column: 2/3;
+  }
+  .page__inner {
+    padding: 40px 35px;
+  }
+}

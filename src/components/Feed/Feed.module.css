@@ -1,0 +1,76 @@
+/** 
+ * Variables
+ */
+/**
+ * Breakpoints
+ */
+/**
+ * Margin
+ */
+/**
+ * Padding
+ */
+/**
+ * Line-Height
+ */
+.feed__item {
+  margin-bottom: 32.5px;
+}
+
+.feed__item:last-child {
+  margin-bottom: 13px;
+}
+
+.feed__item-title {
+  font-size: 27px;
+  line-height: 39px;
+  margin-top: 0px;
+  margin-bottom: 13px;
+}
+
+.feed__item-title-link {
+  color: #222;
+}
+
+.feed__item-title-link:hover, .feed__item-title-link:focus {
+  color: #222;
+  border-bottom: 1px solid #222;
+}
+
+.feed__item-description {
+  font-size: 16px;
+  line-height: 26px;
+  margin-bottom: 19.5px;
+}
+
+.feed__item-meta-time {
+  font-size: 14px;
+  color: #222;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.feed__item-meta-divider {
+  margin: 0 5px;
+}
+
+.feed__item-meta-category-link {
+  font-size: 14px;
+  color: #F7A046;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.feed__item-meta-category-link:hover, .feed__item-meta-category-link:focus {
+  color: #5D93FF;
+}
+
+.feed__item-readmore {
+  font-size: 16px;
+  color: #5D93FF;
+}
+
+.feed__item-readmore:hover, .feed__item-readmore:focus {
+  color: #5D93FF;
+  border-bottom: 1px solid #5D93FF;
+}

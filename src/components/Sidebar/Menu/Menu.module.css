@@ -1,0 +1,46 @@
+/** 
+ * Variables
+ */
+/**
+ * Breakpoints
+ */
+/**
+ * Margin
+ */
+/**
+ * Padding
+ */
+/**
+ * Line-Height
+ */
+.menu {
+  margin-bottom: 26px;
+}
+
+.menu__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu__list-item {
+  padding: 0;
+  margin: 10px 0;
+}
+
+.menu__list-item-link {
+  font-size: 16px;
+  color: #222;
+  font-weight: normal;
+  border: 0;
+}
+
+.menu__list-item-link:hover, .menu__list-item-link:focus {
+  color: #5D93FF;
+  border-bottom: 1px solid #5D93FF;
+}
+
+.menu__list-item-link--active {
+  color: #222;
+  border-bottom: 1px solid #222;
+}

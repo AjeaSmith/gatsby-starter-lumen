@@ -1,0 +1,61 @@
+/** 
+ * Variables
+ */
+/**
+ * Breakpoints
+ */
+/**
+ * Margin
+ */
+/**
+ * Padding
+ */
+/**
+ * Line-Height
+ */
+.pagination {
+  margin-top: 52px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.pagination__prev {
+  width: 50%;
+  text-align: left;
+}
+
+.pagination__prev-link {
+  color: #F7A046;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.pagination__prev-link:hover, .pagination__prev-link:focus {
+  color: #5D93FF;
+}
+
+.pagination__prev-link--disable {
+  pointer-events: none;
+  color: #bbbbbb;
+}
+
+.pagination__next {
+  width: 50%;
+  text-align: right;
+}
+
+.pagination__next-link {
+  color: #F7A046;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.pagination__next-link:hover, .pagination__next-link:focus {
+  color: #5D93FF;
+}
+
+.pagination__next-link--disable {
+  pointer-events: none;
+  color: #bbbbbb;
+}

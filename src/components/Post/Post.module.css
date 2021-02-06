@@ -1,0 +1,63 @@
+/** 
+ * Variables
+ */
+/**
+ * Breakpoints
+ */
+/**
+ * Margin
+ */
+/**
+ * Padding
+ */
+/**
+ * Line-Height
+ */
+.post__footer {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.post__comments {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.post__home-button {
+  display: block;
+  max-width: 90px;
+  height: 35px;
+  padding: 0 24px;
+  line-height: 35px;
+  text-align: center;
+  color: #222;
+  border: 1px solid #e6e6e6;
+  border-radius: 20px;
+  font-size: 16px;
+  font-weight: normal;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 26px;
+}
+
+.post__home-button:hover, .post__home-button:focus {
+  color: #5D93FF;
+}
+
+@media screen and (min-width: 960px) {
+  .post__footer {
+    padding: 0;
+  }
+  .post__comments {
+    padding: 0;
+  }
+  .post__home-button {
+    position: fixed;
+    max-width: auto;
+    margin: 0;
+    top: 30px;
+    left: 30px;
+  }
+}
