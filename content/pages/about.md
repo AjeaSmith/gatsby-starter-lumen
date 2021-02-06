@@ -1,13 +1,10 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: About me
+slug: about-me
+socialImage: /media/ajea.jpg
+draft: false
 ---
+Hey, I'm Ajea. I'm a Software developer. I've been just enjoying the journey and trying to make myself a better developer. 80% of the time I'm busy making beautiful things with the web and keeping my skills sharp with my favorite YouTubers like **Brad Traversy Media, New Boston, Kevin Powell, Net Ninja, CodeWithChris,** and more. The other 20% is spent creating posts related to frontend development, and getting some exercise by going outside walking, bike riding, and anything else I can think of :)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+**Fun fact, my favorite music to code to is Trip Hop / Lofi mix, Matt Corby, Amy Whinehouse, and Twenty One Pilots.**
