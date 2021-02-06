@@ -21,8 +21,8 @@ module.exports = {
     },
   ],
   author: {
-    name: "John Doe",
-    photo: "/photo.jpg",
+    name: "Ajea Smith",
+    photo: "/ajea.jpg",
     bio:
       "Front-End Developer, building things and writing about it is what I do the most :)",
     contacts: {
