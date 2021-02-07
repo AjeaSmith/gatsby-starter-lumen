@@ -5,7 +5,7 @@ slug: js-in-browser-the-dom
 socialImage: /media/javascript.png
 draft: false
 date: 2021-02-06T23:43:36.672Z
-description: "Javascript In The Browser: The DOM (In a Nutshell)"
+description: The DOM (In a Nutshell)
 category: JS Nutshell
 tags:
   - Javascript
