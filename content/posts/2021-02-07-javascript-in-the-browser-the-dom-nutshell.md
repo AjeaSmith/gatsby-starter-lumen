@@ -52,12 +52,12 @@ Now that we have some content on the page, let's modify some of it through Javas
 
 **2 ways of doing this ->** 
 
-1. **Using querySelectors ->** grab single DOM element by either classname or ID(we'll use classNames though) ex: 
+1. **Using querySelectors ->** grab single DOM element by either classname or ID(we'll use classnames though) ex: 
 
 ```javascript
 /* main.js */
 
-// We're grabbing the (navbar, first article) element by the classnames 
+// We're grabbing the (navbar, article) elements by the classnames 
 // we assigned to them (we need to add . before the classname)
 
 const navbar = document.querySelector(".navbar");
@@ -115,7 +115,6 @@ Lastly, let's modify it's content and style with Javascript
    ul.style.justifyContent = "space-around";
    ul.style.fontWeight = "bold";
    ul.style.fontSize = "18px";
-
    ```
 
    Now, it looks like this after styling
@@ -145,7 +144,6 @@ Lastly, let's modify it's content and style with Javascript
    articleArray.forEach((el) => {
      el.classList.add("article-background-color");
    });
-
    ```
 
    The Final look using both styling approaches 
