@@ -95,7 +95,7 @@ Thats just a taste of traversing the DOM, you can find more detailed info [here 
 
 Cool, we know how to grab elements both ways, (querySelector, traversing the DOM).
 
-Lastly, let's modify it's content and style with Javascript
+Lastly, let's modify it's style with Javascript
 
 1. Using the **style** property(style is just another **object** that contains all the styles as properties) if you were to \`\`\`console.log(navbar.style)\`\`\` you would see this 
 
