@@ -5,7 +5,8 @@ slug: js-in-browser-the-dom
 socialImage: /media/javascript.png
 draft: false
 date: 2021-02-06T23:43:36.672Z
-description: The DOM (In a Nutshell)
+description: The DOM (Document Object Model) represents the structure of a
+  webpage. It's an object that contains properties that describe the webpage.
 category: JS Nutshell
 tags:
   - Javascript
