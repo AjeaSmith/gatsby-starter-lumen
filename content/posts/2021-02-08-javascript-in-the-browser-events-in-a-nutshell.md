@@ -1,6 +1,6 @@
 ---
 template: post
-title: "Javascript In The Browser: Events (In A Nutshell)"
+title: "Javascript In The Browser: Events (Nutshell)"
 slug: js-events
 socialImage: /media/javascript.png
 draft: false
