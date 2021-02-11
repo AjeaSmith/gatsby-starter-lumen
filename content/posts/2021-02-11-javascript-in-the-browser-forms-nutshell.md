@@ -3,7 +3,7 @@ template: post
 title: "Javascript In The Browser: Forms (Nutshell)"
 slug: js-forms
 socialImage: /media/javascript.png
-draft: true
+draft: false
 date: 2021-02-11T01:06:43.881Z
 description: Forms are an essential part of web development. It's rare that you
   come across a website and don't see a form of some sort, they're everywhere
