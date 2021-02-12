@@ -30,9 +30,7 @@ module.exports = {
       twitter: "https://twitter.com/ajeasmith",
       github: "https://github.com/ajeasmith",
       linkedin: "https://www.linkedin.com/in/ajea-smith/",
-      youtube: "",
-      soundcloud: "",
-      medium: "",
+      youtube: "https://www.youtube.com",
     },
   },
 };
