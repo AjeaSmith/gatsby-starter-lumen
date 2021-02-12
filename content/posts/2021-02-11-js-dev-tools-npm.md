@@ -10,7 +10,7 @@ description: NPM stands for Node Package Manager. It's a package registry that
   other people created to save developers time from writing the code themselves
   from scratch. There is a package for almost anything nowadays (validation,
   animation, etc.).
-category: js dev tools
+category: JS Dev Tools
 tags:
   - javascript
   - coding
