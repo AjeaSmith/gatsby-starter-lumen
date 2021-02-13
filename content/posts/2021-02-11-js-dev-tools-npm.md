@@ -1,6 +1,6 @@
 ---
 template: post
-title: "JS Dev Tools: NPM"
+title: "NPM: JS Dev Tools"
 slug: js-npm
 socialImage: /media/javascript.png
 draft: false
