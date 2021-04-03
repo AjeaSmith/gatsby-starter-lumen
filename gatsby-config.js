@@ -188,7 +188,7 @@ module.exports = {
         background_color: "#FFF",
         theme_color: "#F7A046",
         display: "standalone",
-        icon: "static/ajea.jpg",
+        icon: "static/ajea2.jpg",
       },
     },
     {
