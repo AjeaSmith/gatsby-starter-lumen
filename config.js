@@ -22,7 +22,7 @@ module.exports = {
   ],
   author: {
     name: "Ajea Smith",
-    photo: "/ajea128x128.jpg",
+    photo: "/ajea.jpg",
     bio:
       "Front-End Developer, building things and writing about it is what I do the most :)",
     contacts: {
@@ -30,7 +30,7 @@ module.exports = {
       twitter: "https://twitter.com/ajeasmith",
       github: "https://github.com/ajeasmith",
       linkedin: "https://www.linkedin.com/in/ajea-smith/",
-      youtube: "https://www.youtube.com",
+      youtube: "https://www.youtube.com/channel/UCJTewsHlWO1vCQhlJ9BL28A",
     },
   },
 };
