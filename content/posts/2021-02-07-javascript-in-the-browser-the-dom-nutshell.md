@@ -14,6 +14,8 @@ tags:
   - coding
   - frontend
 ---
+![](/media/javascript.png)
+
 The DOM (Document Object Model) represents the structure of a webpage. It's an object that contains properties that describe the webpage.  
 
 When you type "document" in the console, it shows you the outline of the webpage (the element tags that make up a webpage), e.g. (html, head, body, title, meta). (Image Below). It looks empty because we don't have any content yet.
