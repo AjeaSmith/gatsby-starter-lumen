@@ -98,7 +98,6 @@ We'll create a basic React project to start, then we'll set up a basic login for
    .App {
      margin-top: 50px;
    }
-
    ```
 
    Now, it should look like this
@@ -120,12 +119,11 @@ We'll create a basic React project to start, then we'll set up a basic login for
    Here we're importing the package. The `useForm` method is a hook and we're extracting all the functions/pieces we need for our form.
 
    1. **register**, register validations(rules and error messages) to our inputs
-
    2. **handleSubmit**, function that handles our data when we submit form
-
    3. **formState: {errors}**, stores our error messages so we can render them later
-
    4. **mode: "onBlur"** `useForm` method takes optional param which gives us an option to whether we want to handle the validation on form submit or `onBlur`. In my case, I always choose `onBlur`. If you don't pass anything the default is on form submit. 
+
+   Let's add the validation to the email and password inputs.
 
    ```jsx
    // ... other imports
@@ -257,10 +255,9 @@ We'll create a basic React project to start, then we'll set up a basic login for
    }
 
    export default App;
-
    ```
 
-   Here, we added the error message (if any) below the inputs. If there is an error from our `errors` object (`errors.email` or `errors.password`), then we render that inputs error message(`errors.password.message `or `errors.email.message`) 
+   Here, we added the error message (if any) below the inputs. If there is an error from our `errors` object (`errors.email` or `errors.password`), then we render that inputs error message(`errors.password.message`or `errors.email.message`) 
 
    ![](/media/screen-shot-2021-04-06-at-7.54.47-pm.png)
 
